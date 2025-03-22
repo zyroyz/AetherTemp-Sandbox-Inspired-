@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner](https://media.discordapp.net/attachments/1345742664355680547/1348346094085476383/image.png?ex=67cf20a7&is=67cdcf27&hm=40040531a2f573f1db245cd05faebadbd7c3cc2370d9b711b3d580af5cd61e02&=&format=webp&quality=lossless)  
+![Mod Menu Banner](https://media.discordapp.net/attachments/1346469712510451722/1348346840856133772/image.png?ex=67e044d9&is=67def359&hm=14ab5f4d05ff17ab9fe9bdf3c4d5a68d50ee5a8ae5775d333649f575fe2f7527&=&format=webp&quality=lossless)  
 
 ## 🚀 About  
 It’s inspired by **Mono Sandbox**, and I hope you enjoy it.  
